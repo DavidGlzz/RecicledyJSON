@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecicledyJSON</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Titulo del header: ADGP</string>
+    <string name="nav_header_subtitle">Email: ADGP@ADGP.com</string>
+    <string name="nav_header_desc">Header del navegador: AGDP</string>
+    <string name="action_settings">Kowalski, ¿opciones?</string>
+</resources>
